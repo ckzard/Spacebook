@@ -35,8 +35,6 @@ SO THAT companies are not tracking my information.
 
 ## Table of Contents 📜
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
 * [Team Members](#team-members)
 * [Installation](#installation)
 * [Usage](#usage)
