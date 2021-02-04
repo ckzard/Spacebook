@@ -87,7 +87,7 @@ Joyson P
   * Live app - https://spacebookx.herokuapp.com/
    
 * GitHub
-  * Repository - https://github.com/enochj316/Project2
+  * Repository - https://github.com/ckzard/Spacebook
 
 
 
